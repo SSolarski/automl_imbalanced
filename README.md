@@ -10,6 +10,8 @@ The Jupyter [notebook](https://github.com/SSolarski/automl_imbalanced/blob/7cd18
 
 The final [report](https://github.com/SSolarski/automl_imbalanced/blob/7cd18d49a254414d3b69790a5b0c0b4a4f4aff65/Stefan%20Solarski%20Report%20AutoML.pdf) explains the approaches used to tackle the problem of imbalanced learning, the experiments we conducted, the resulting pipeline, and results.
 
+The backup folder holds results from the previous benchmark runs and saved will contain results for new future runs of the benchmarks.
+
 ## Setup
 
 Clone the repository and use [pip](https://pip.pypa.io/en/stable/), or another package manager, to install the requirements.
