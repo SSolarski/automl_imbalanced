@@ -37,4 +37,4 @@ We used the following packages:
 1. [xgboost](https://xgboost.readthedocs.io/en/stable/) -> XGBoost classifier
 1. [scikit-optimize](https://scikit-optimize.github.io/stable/) -> hyperparameter tuning using Bayesian optimization
 1. [matplotlib](https://matplotlib.org/stable/index.html) -> visualizing performance of the automl system
-1. [ipykernel](https://ipykernel.readthedocs.io/en/stable/) -> running Jupyter notebooks
+1. [jupyter](https://docs.jupyter.org/en/latest/) -> running Jupyter notebooks
